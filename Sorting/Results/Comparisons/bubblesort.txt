@@ -1,0 +1,6 @@
+Number of comparisons for 5 elements: 12
+Number of comparisons for 10 elements: 63
+Number of comparisons for 100 elements: 9207
+Number of comparisons for 1000 elements: 909090
+Number of comparisons for 10000 elements: 97550244
+Number of comparisons for 100000 elements: 9964500354

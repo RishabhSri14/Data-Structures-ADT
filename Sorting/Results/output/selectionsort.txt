@@ -1,0 +1,6 @@
+Execution time for 5 elements: 0.000003
+Execution time for 10 elements: 0.000002
+Execution time for 100 elements: 0.000048
+Execution time for 1000 elements: 0.003747
+Execution time for 10000 elements: 0.102983
+Execution time for 100000 elements: 10.210664
