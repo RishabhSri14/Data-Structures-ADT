@@ -16,6 +16,7 @@ Que InitQue(size_t que_capacity)
     Q->NumItems = 0;
     Q->Rear = Q->Capacity-1; // or -1
     Q->Front = 0;    
+    return Q;
 }
 
 void Enque(Que Q,const ElementType E)
